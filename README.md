@@ -51,7 +51,7 @@ The game will be pulled from my servers (I'll assume you already own the game - 
 ## Used Mods
 
 * [AutoLoadGame](https://www.nexusmods.com/stardewvalley/mods/2509)
-* [Always On(已更新)](https://github.com/perkmi/Always-On-Server-for-Multiplayer/releases)
+* [Always On(update)](https://github.com/perkmi/Always-On-Server-for-Multiplayer/releases)
 * [Unlimited Players](https://www.nexusmods.com/stardewvalley/mods/2213)
 * some more ...
 

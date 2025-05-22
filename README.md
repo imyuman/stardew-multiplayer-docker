@@ -70,3 +70,8 @@ Access the game via VNC to initially load or start a pregenerated savegame. You 
 ### Performance
 
 I'd recomend a VPS/Machine with at least four logical CPUs and 4GB Ram, otherwise there will be horrible lags. The minimum configuration I'd consider playable with two to four players would be two logical CPUs and 1GB of Ram.
+
+### Very high SMAPI CPU usage
+
+lowering the VNC resolution can reduce CPU usage. In actual use, when the resolution is adjusted from 1200x900 to 800x600, the CPU usage will be reduced from 400% to 270%.
+

@@ -12,7 +12,7 @@ RUN apt-get install -y wget unzip tar strace mono-complete xterm gettext-base jq
 # Game + ModLoader 1.5.6 3.18.2
 RUN mkdir -p /data/Stardew && \
     mkdir -p /data/nexus && \
-    wget https://eris.cc/Stardew_1.6.15.tar.gz -qO /data/latest.tar.gz && \
+    wget https://github.com/imyuman/my/releases/download/1.6.15/1.6.15.tar.gz -qO /data/latest.tar.gz && \
     tar xf /data/latest.tar.gz -C /data/Stardew && \
     rm /data/latest.tar.gz 
 
